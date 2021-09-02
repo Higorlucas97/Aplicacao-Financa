@@ -1,2 +1,2 @@
-# Aplicacao-Financa
-Aplicação de finança usando PHP, MYSQL e Bootstrap
+# Aplicativo_Web_Financas_TCC_2021_ETECVAV
+ Repositório Dedicado ao Grupo de TCC da ETECVAV
